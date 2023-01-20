@@ -1,5 +1,5 @@
 pool:
-  vmImage: Azure Pipelines # Hosted Ubuntu 1604
+  name: Azure Pipelines
   demands: maven
 
 steps:
